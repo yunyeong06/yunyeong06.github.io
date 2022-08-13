@@ -1,4 +1,4 @@
-yunyeong06.github.io
+yunyeong946.github.io
 ====================
 
 ## About
@@ -6,4 +6,4 @@ yunyeong06.github.io
 This is my personal web implementation portfolio.
 Any of you interested in seeing it, please visit:
 
-https://yunyeong06.github.io/
+https://yunyeong946.github.io/
